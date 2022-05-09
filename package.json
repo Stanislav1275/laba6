@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@stdlib/types": "^0.0.14",
+    "normalize.css": "^8.0.1",
+    "ts-node": "^10.7.0"
+  }
+}
